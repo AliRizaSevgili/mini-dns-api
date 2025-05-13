@@ -72,7 +72,7 @@ Mini DNS API – Backend Developer Assessment
  -Boosts performance and reduces memory access
 
 
-############################################################################################################
+###########################################################################################################
   
 -AI Usage Disclosure-
 
@@ -99,7 +99,7 @@ Final decisions, implementations, and architectural choices were mine.
 -AI tools were used as supplementary resources — not as a replacement for core development responsibilities.
 
 
-
+###########################################################################################################
 
 
 ###-Developer-###
