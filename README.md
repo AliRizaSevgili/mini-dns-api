@@ -27,7 +27,7 @@ Mini DNS API – Backend Developer Assessment
   -npm
 
  #-Installation-#
-  -git clone <repo-url>
+  -git clone <https://github.com/AliRizaSevgili/mini-dns-api>
   -cd backend-dns-api
   -npm install
  
